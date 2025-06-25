@@ -58,8 +58,8 @@
 Статистичні характеристики за полем 'Продаж'.<br>
 ![изображение](https://github.com/user-attachments/assets/3169e904-d37c-4575-a3d3-82fe6a0156e0)
 
-Курс НБУ.    
+Курс НБУ.<br>
 ![изображение](https://github.com/user-attachments/assets/d8a00619-6eed-404d-b92b-1da3473153b4)
 
-Статистичні характеристики за полем 'Курс НБУ'.
+Статистичні характеристики за полем 'Курс НБУ'.<br>
 ![изображение](https://github.com/user-attachments/assets/b71214d7-953d-4891-8d36-784bf847ee09)
